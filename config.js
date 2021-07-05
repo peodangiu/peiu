@@ -1,12 +1,12 @@
 const CONFIG = {
     introTitle: 'Peo à!',
-    introDesc: `                     Trái đất vốn lạ thường
+    introDesc: `                     Trái đất vốn lạ thường ️🎶🎶🎶
                                       
-                                     Mà sao em cứ đi nhầm đường
+                                     Mà sao em cứ đi nhầm đường️ 🎶🎶🎶
                                        
-                                     Lạc vào tim anh lẻ loi
+                                     Lạc vào tim anh lẻ loi️ 🎶🎶🎶
                                        
-                                     Đằng sau chữ yêu đây là thương`,
+                                     Đằng sau chữ yêu đây là thương️ 🎶️🎶️🎶`,
     btnIntro: 'hihi',
     title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
     desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
