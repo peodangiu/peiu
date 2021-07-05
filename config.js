@@ -1,8 +1,11 @@
 const CONFIG = {
     introTitle: 'Peo à!',
     introDesc: `Trái đất vốn lạ thường
+    
     Mà sao em cứ đi nhầm đường
+    
     Lạc vào tim anh lẻ loi
+    
     Đằng sau chữ yêu đây là thương`,
     btnIntro: 'hihi',
     title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
@@ -11,7 +14,7 @@ const CONFIG = {
     btnNo: 'Không, Anh mơ à :3',
     question:'Trên thế giới hơn 7 tỉ người mà sao em lại yêu anh <3',
     btnReply: 'Gửi cho anh <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
+    reply: 'Tại vì anh đẹp zaiiii <33333333',
     mess: 'Anh biết mà 🥰. I love you 3000 😘😘',
     messDesc: 'Còn chờ gì nữa mà không inbox cho anh đi nàooooo.',
     btnAccept: 'Okiiiii lun <3',
